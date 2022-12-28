@@ -2,6 +2,7 @@
 
 ## AIM:
 To write a python program to find the distance two 2 points
+
 ## ALGORITHM:
 
 ### Step 1: 
@@ -9,7 +10,7 @@ Get the value from the user
 ### Step 2: 
 Assign the values
 ### Step 3: 
-Substitute the values in the distance formula  (formula.JPG.png)
+Substitute the values in the distance formula    d=√((x_2-x_1)²+(y_2-y_1)²) 
 ### Step 4:
 print the result 
 ### Step 5: 
