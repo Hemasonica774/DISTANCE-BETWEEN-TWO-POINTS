@@ -9,7 +9,7 @@ Get the value from the user
 ### Step 2: 
 Assign the values
 ### Step 3: 
-Substitute the values in the distance formula  d=√((x_2-x_1)²+(y_2-y_1)²)
+Substitute the values in the distance formula  (formula.JPG.png)
 ### Step 4:
 print the result 
 ### Step 5: 
@@ -32,4 +32,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
-THus distance between two points are successfully executed
+Thus distance between two points are successfully executed
